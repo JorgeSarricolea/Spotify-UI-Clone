@@ -323,6 +323,14 @@ body {
 	-webkit-box-orient: vertical;
 }
 
+.card a {
+    color: #b3b3b3;
+}
+
+.card a:hover {
+    font-weight: bold;
+}
+
 /* FOOTER */
 
 .footer {
