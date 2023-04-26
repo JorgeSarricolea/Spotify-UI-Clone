@@ -5,7 +5,7 @@ This is a static desktop page (Spotify Clone) demonstrating my UI skills with HT
 Having the ability to perform Interface Design is important when launching a product to the market. I have been focusing my knowledge on Interface Design and User Experience for over 2 years. To demonstrate my design skills, I have decided to clone one of the apps I use every day. I added a small touch to this project where you can listen to my personal playlist. It is worth noting that this clone is not responsive, and I have only designed it for desktop.
 
 ## Getting Started
-To get started with this project, click here or simply clone this repository to your local machine and open the index.html file in your preferred web browser.
+To get started with this project, [click here](https://jorgesarricolea.com/spotify-ui-clon) or simply clone this repository to your local machine and open the index.html file in your preferred web browser.
 
 ## Features
 Some of the key features of this project include:
