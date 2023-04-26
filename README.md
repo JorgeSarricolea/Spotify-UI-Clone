@@ -1,4 +1,4 @@
-#[Spotify (UI Clone)](https://jorgesarricolea.com/spotify-ui-clon)
+# [Spotify (UI Clone)](https://jorgesarricolea.com/spotify-ui-clon)
 This is a static desktop page (Spotify Clone) demonstrating my UI skills with HTML and CSS.
 
 ## Description
